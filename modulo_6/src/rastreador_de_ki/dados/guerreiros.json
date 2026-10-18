@@ -1,0 +1,254 @@
+{
+    "guerreiros": [
+        {
+            "nome_do_guerreiro": "goku",
+            "ki_base": 60000000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "vegeta",
+            "ki_base": 54000000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "piccolo",
+            "ki_base": 2000000,
+            "raca": "namekuseijin"
+        },
+        {
+            "nome_do_guerreiro": "bulma",
+            "ki_base": 0,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "freeza",
+            "ki_base": 530000,
+            "raca": "raça do freeza"
+        },
+        {
+            "nome_do_guerreiro": "zarbon",
+            "ki_base": 20000,
+            "raca": "raça do freeza"
+        },
+        {
+            "nome_do_guerreiro": "dodoria",
+            "ki_base": 18000,
+            "raca": "raça do freeza"
+        },
+        {
+            "nome_do_guerreiro": "capitão ginyu",
+            "ki_base": 9000,
+            "raca": "raça do freeza"
+        },
+        {
+            "nome_do_guerreiro": "cell",
+            "ki_base": 250000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "gohan",
+            "ki_base": 45000000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "kuririn",
+            "ki_base": 1000000,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "tenshinhan",
+            "ki_base": 2400000,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "yamcha",
+            "ki_base": 1980000,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "chi-chi",
+            "ki_base": 0,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "gotenks",
+            "ki_base": 65600000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "trunks",
+            "ki_base": 50000000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "mestre kame",
+            "ki_base": 500000,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "bardock",
+            "ki_base": 450000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "lunch",
+            "ki_base": 0,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "mr. satan",
+            "ki_base": 450,
+            "raca": "humano"
+        },
+        {
+            "nome_do_guerreiro": "dendê",
+            "ki_base": 3200,
+            "raca": "namekuseijin"
+        },
+        {
+            "nome_do_guerreiro": "androide 17",
+            "ki_base": 320000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "androide 16",
+            "ki_base": 440000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "androide 19",
+            "ki_base": 122000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "dr. gero (androide 20)",
+            "ki_base": 128000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "androide 13",
+            "ki_base": 195000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "androide 14",
+            "ki_base": 192500000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "androide 15",
+            "ki_base": 175000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "nail",
+            "ki_base": 42000,
+            "raca": "namekuseijin"
+        },
+        {
+            "nome_do_guerreiro": "raditz",
+            "ki_base": 1500,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "babidi",
+            "ki_base": 0,
+            "raca": "majin"
+        },
+        {
+            "nome_do_guerreiro": "majin boo",
+            "ki_base": 8000000000,
+            "raca": "majin"
+        },
+        {
+            "nome_do_guerreiro": "bills",
+            "ki_base": 102000000000,
+            "raca": "deus"
+        },
+        {
+            "nome_do_guerreiro": "whis",
+            "ki_base": 15000000000000000000000000,
+            "raca": "anjo"
+        },
+        {
+            "nome_do_guerreiro": "zeno",
+            "ki_base": 500000000000000000000000000,
+            "raca": "desconhecida"
+        },
+        {
+            "nome_do_guerreiro": "kibito kai",
+            "ki_base": 3200000000,
+            "raca": "deus"
+        },
+        {
+            "nome_do_guerreiro": "jiren",
+            "ki_base": 121000000000000000000,
+            "raca": "raça do jiren"
+        },
+        {
+            "nome_do_guerreiro": "toppo",
+            "ki_base": 99000000000000000,
+            "raca": "deus"
+        },
+        {
+            "nome_do_guerreiro": "dyspo",
+            "ki_base": 50000000000000,
+            "raca": "deus"
+        },
+        {
+            "nome_do_guerreiro": "marcarita",
+            "ki_base": 10000000000000000000000000,
+            "raca": "anjo"
+        },
+        {
+            "nome_do_guerreiro": "vermoudh",
+            "ki_base": 9900000000000000000000000,
+            "raca": "deus"
+        },
+        {
+            "nome_do_guerreiro": "senhor kaioh do norte",
+            "ki_base": 6000,
+            "raca": "shinjin"
+        },
+        {
+            "nome_do_guerreiro": "androide 18",
+            "ki_base": 280000000,
+            "raca": "androide"
+        },
+        {
+            "nome_do_guerreiro": "gogeta",
+            "ki_base": 250000000000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "vegetto",
+            "ki_base": 180000000000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "janemba",
+            "ki_base": 15000000000,
+            "raca": "demônio"
+        },
+        {
+            "nome_do_guerreiro": "broly",
+            "ki_base": 7000000000000000,
+            "raca": "saiyajin"
+        },
+        {
+            "nome_do_guerreiro": "kibito",
+            "ki_base": 1500000000,
+            "raca": "shinjin"
+        },
+        {
+            "nome_do_guerreiro": "supremo senhor kaioh",
+            "ki_base": 2223,
+            "raca": "shinjin"
+        },
+        {
+            "nome_do_guerreiro": "grande kaioh",
+            "ki_base": 10000,
+            "raca": "shinjin"
+        }
+    ]
+}
