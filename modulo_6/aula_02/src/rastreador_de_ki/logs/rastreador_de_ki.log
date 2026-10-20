@@ -1,0 +1,18 @@
+[20/10/2026 18:01:45] Iniciando rastreador de ki
+[20/10/2026 18:01:56] Opcao registrada pelo usuário: 1
+[20/10/2026 18:01:56] Processando pedido de cadastro de guerreiro
+[20/10/2026 18:03:08] Coletando dados do novo guerreiro
+[20/10/2026 18:03:08] Dados: nome -> goku, KI Base -> 1000000,raça -> saiyajin
+[20/10/2026 18:03:08] cadastrando novo guerreiro goku
+[20/10/2026 18:03:08] Guerreiro não existe, continuando a criação do guerreiro goku
+[20/10/2026 18:03:08] novo guerreiro salvo: Nome: goku, Ki base: 1000000, Raça: saiyajin
+[20/10/2026 18:03:08] Montando a ficha dos os guerreiros e formatando em tabela
+[20/10/2026 18:03:08] Tabela básica criada com sucesso
+[20/10/2026 18:03:08] dados adicionados a tabela do guerreiro e ficha montada, prosseguindo
+[20/10/2026 18:03:08] guerreiro goku cadastrado e ficha exibida com
+[20/10/2026 18:03:31] Iniciando rastreador de ki
+[20/10/2026 18:03:40] Opcao registrada pelo usuário: 6
+[20/10/2026 18:03:46] Iniciando rastreador de ki
+[20/10/2026 18:04:57] Iniciando rastreador de ki
+[20/10/2026 18:04:59] Opcao registrada pelo usuário: 0
+[20/10/2026 18:04:59] Finalizando execução do rastreador de ki
